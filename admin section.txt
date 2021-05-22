@@ -1,0 +1,56 @@
+Project title - Cadbury Assistance
+
+Project Description - 
+
+The project, "Cadbury Assistance" is build with motivation to bring ease in lives of client companies and end users. 
+In today's digital world, everyone wishes to have their own all time available assistant.
+
+Cadbury Assistance is web based assistive button which can be injected into web applications and provide it's amazing functionalities such as it 
+provides chat support to users whenever they need help, help them in bug report, keep them updated with all the annoucements made by the
+host and with many more cool and helpful features. We plan on working on this product with much more enthusiasm and precision for future 
+deployment purposes.
+
+We look forward in expanding our project with use of speech recognition, gamification, enhancing our security system and adding some cool 
+new cool features. We look forward to work on with more research, observation, study and mentoring.
+
+
+
+
+Built with (Techs used) - HTML, CSS, Javascript, Bootstrap, React Js, Material UI, React-Routers, Node Js, Express, Python, Flask,
+ MongoDB, Atlas, Postman, Heroku, Netlify. 
+
+PPT/PDF
+
+Repository links - (GIT Upload)
+
+
+https://github.com/abhiseksinha23/api-application-airbus
+https://github.com/HoneyPatre/konnex-airbus-frontend
+https://github.com/saikumar1752/Chatbot_Frontend
+https://github.com/saikumar1752/Chatbot1752
+https://github.com/prateek48/KonnexFinalAdmin
+https://github.com/sudeept-das/Airbus-Hakathon
+
+
+source code
+
+instruction - Live demo links - 
+
+https://application-imp.herokuapp.com/
+https://cocky-varahamihira-aed09f.netlify.app/
+https://chatbot1752.herokuapp.com/
+https://chatbot-frontend01.herokuapp.com/
+https://nodejs-bug-and-announcement.herokuapp.com
+https://practical-bardeen-23bf50.netlify.app/
+
+
+Installing source on local system - 
+
+
+
+
+
+What this folder is about
+How to install and run on local
+Live demo
+Git Repo link

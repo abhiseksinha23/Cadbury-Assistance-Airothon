@@ -1,0 +1,14 @@
+This folder is the source code for frontend of the project.
+After successful installation and running of it, it would show 
+an html(any application) file along with a "assistive button",
+which onclicking would provide with options like:
+1. Chatbot
+2. Improvement Section
+3. Bug Report Section
+4. Announcement Section
+5. Navigation Helper
+6. Information Section
+7. Speech Recognizer
+
+Each section opens a popup leading to respective tasks.
+Speech Recognizer redirects user to "airbus" official website.

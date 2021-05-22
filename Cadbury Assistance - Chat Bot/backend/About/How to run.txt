@@ -1,0 +1,3 @@
+1. Install Python
+2. Install Flask, request, CORS, MongoClient using pip
+3. Run app.py using "python app.py"

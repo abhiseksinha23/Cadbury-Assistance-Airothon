@@ -1,0 +1,10 @@
+It consists of Rest API's for performing complete crud operations related to -
+
+1) Announcement
+2) Bug Reporting(Case)
+3) Mail communication
+4) Admin and User functionality for Application improvement and co-creation
+
+It also consist Schema's for :
+1) Announcement
+2) Bug Reporting(Case)

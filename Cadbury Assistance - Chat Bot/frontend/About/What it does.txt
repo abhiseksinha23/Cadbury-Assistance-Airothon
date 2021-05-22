@@ -1,0 +1,3 @@
+The Chatbot application is a part of a bigger application Assistmenu
+The chatbot is used in a dialog component in the Assistmenu.
+The user can ask for anything related to the website and the chatbot communicates with the backend to server the user with answers.

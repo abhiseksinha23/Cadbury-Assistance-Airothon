@@ -1,0 +1,4 @@
+1. It's an api which is used by the Chatbot
+2. The chatbot can query stored question and answer from the chatbot
+3. The chatbot can send question to the api and then the api looks for 
+the most favorable answer from the texts available using nlpcloud api(Q&A model)

@@ -1,0 +1,5 @@
+(after cloning/downloading the repo)
+Step-1 navigate to the KonnexMainSite Folder in your command line
+Step-2 Run nmp i
+Step-3 Run npm start
+

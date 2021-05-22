@@ -1,0 +1,2 @@
+Run npm install in the app folder
+Then run npm start a new tab will be opened in the browser showing the chat application
